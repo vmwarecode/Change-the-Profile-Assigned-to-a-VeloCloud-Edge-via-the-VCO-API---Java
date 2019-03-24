@@ -1,1 +1,0 @@
-# Change-the-Profile-Assigned-to-a-VeloCloud-Edge-via-the-VCO-API---Java
